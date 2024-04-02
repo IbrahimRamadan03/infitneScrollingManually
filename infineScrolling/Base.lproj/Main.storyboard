@@ -108,6 +108,9 @@
                             <constraint firstItem="T5c-fI-4qc" firstAttribute="top" secondItem="pUu-sm-DFp" secondAttribute="bottom" constant="179" id="lp0-pv-AyI"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="customView" destination="pUu-sm-DFp" id="UFF-Yf-Cdu"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

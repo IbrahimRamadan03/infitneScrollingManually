@@ -8,7 +8,7 @@
 import UIKit
 
 class CollectionViewCell: UICollectionViewCell {
-    
+
     @IBOutlet weak var collectionLbl: UILabel!
     
     func setUpCell(lblNum : Int) {
